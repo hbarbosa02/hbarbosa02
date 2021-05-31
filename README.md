@@ -1,7 +1,7 @@
 ### hi, I'm Hiran 👋
 
 - 🔭 I’m currently working on iWof
-- 🌱 I’m currently learning bit of everything
+- 🌱 I'm currently learning about flutter and nextjs
 
 <!--
 **hbarbosa02/hbarbosa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
