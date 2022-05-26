@@ -1,6 +1,6 @@
 ### Hi! I'm Hiran 👋. 
 
-I have a degree in Computer Engineering and in the last years I have been working on the development of Web systems using Node.js, GraphQL, React JS, Flutter, MySQL, PostgreSQL and MongoDB.
+I have a degree in Computer Engineering and in the last years I have been working on the development of Web systems using Node.js, GraphQL, React JS, Flutter, MySQL, NestJS, AngularJS, PostgreSQL and MongoDB.
 
 - 🔭 I’m currently working on [CloudPlusPlus](https://cloudplusplus.nl/).
 - 🌱 I'm currently learning about [Angular](https://angular.io/) and [NestJS](https://nestjs.com/).
