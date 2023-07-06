@@ -9,13 +9,6 @@ I have a degree in Computer Engineering and in the last years I have been workin
 Below is some information about my projects and knowledge, and some ways to get in touch with me.
 
 ##
-
-<div>
-  <a href="https://github.com/hbarbosa02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarbosa02&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-##
   
 <div>
   <a href="https://www.instagram.com/hiran.g.b.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
