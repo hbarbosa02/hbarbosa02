@@ -5,6 +5,7 @@ Computer Engineer focused on web systems. I build APIs and full-stack apps with 
 - 🔭 I'm currently working on [CloudPlusPlus](https://cloudplusplus.nl/) — building enterprise APIs with multi-tenancy, RBAC, and event-driven architecture.
 - 🌱 I'm learning [Angular](https://angular.io/) and deepening my [NestJS](https://nestjs.com/) expertise.
 - 💬 Ask me about **NestJS**, **event-driven systems**, **MCP/AI tooling**, and **web development**.
+- 🔧 Building **Alaz MCP** — an MCP server that exposes NestJS project context to AI agents (Cursor, Claude, Copilot).
 
 ### Featured projects
 
